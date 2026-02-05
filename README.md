@@ -17,7 +17,7 @@ Also, in order to give recommendations and make our systems run fast and smoothl
 ## Tools
 Our main tool for cleaning, transforming and analysing the data was SQL. 
 For further insights and visualisations we connected the transformed data to Tableau.
-The final presentation was created with the help of Kimi/slides (AI-powered).
+The final presentation was created with the help of gamma/slides (AI-powered).
 
 ## Challenges
 There was an issue that we had to tackle because some nights (spent at the hotels) had a negative value.
