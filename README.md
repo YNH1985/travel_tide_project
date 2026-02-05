@@ -12,7 +12,7 @@ To avoid churn and strengthen retention we wanted to assign relevant perks for e
 We had four tables of data: Sessions (fact), Hotels, Flights, Users. 
 The session based table had 5 Million rows, including many, that never converted into an actual trip, cancellations etc. 
 We decided that in order to find perks for cohorts, we needed to look at the data from a user perspective. 
-Also, in order to give recommendations and make our systems run fast and smoothly, we came up with a much smaller set of data of 5998 users.  
+Also, in order to give recommendations and make our systems run fast and smoothly, we came up with a much smaller set of data of 5998 representative users.  
 
 ## Tools
 Our main tool for cleaning, transforming and analysing the data was SQL. 
