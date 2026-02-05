@@ -1,7 +1,7 @@
 # Travel Tide: Find your own way!
 
 ## Objective
-This is the Mastery Project of Masterschool cohort in February 2026
+This is the Mastery Project of Masterschool cohort in February 2026.
 With a given dataset of the Travel Tide travel agency of > 5 Million sessions,
 the scope was to clean and transform the dataset for analysis. 
 The goal was to come from a session based table with millions of rows, 
