@@ -29,4 +29,4 @@ We decided to exclude them first from our sessions and moved on to build the use
 At the same time we wanted to keep the cohort of users that is interested in a trip but never booked one (Dreamers). 
 
 ## Insights
-We came up with 7 (+others) groups and each group has an assigned perk. 
+We came up with 7 (+ group "Others") groups and each group has an assigned perk. 
